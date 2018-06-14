@@ -1,0 +1,2 @@
+# terriblecoin
+TerribleCoin Clicker!
