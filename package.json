@@ -1,0 +1,18 @@
+{
+  "name": "terriblecoin",
+  "version": "1.0.0",
+  "description": "TO THE MOON",
+  "main": "index.js",
+  "repository": "git@github.com:TerribleHack/terriblecoin.git",
+  "author": "Dave Pagurek <dave@davepagurek.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.12.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.0.8"
+  },
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  }
+}
