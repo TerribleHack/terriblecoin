@@ -82,8 +82,29 @@ section div {
   display: flex;
 }
 
+.full {
+  width: 100%;
+}
+
 .half {
   width: 50%;
+}
+
+.third {
+  width: 33%;
+}
+
+.two-thirds {
+  width: 66%;
+}
+
+.center-button {
+  text-align: center;
+}
+
+.responsive-image {
+  width: 100%;
+  height: auto;
 }
 
 a.button {
